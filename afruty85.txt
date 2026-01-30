@@ -1,0 +1,2 @@
+echo "Hey Jewell, just doing the assignment for 2b. Cheers"
+echo "from Alex Frutos"
